@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @eduardo-caroli
-- 👀 I’m interested in Python and Lua programming, game development
-      and using my skills to help whoever needs me and improve 
-      whatever i can improve.
-- 🌱 I’m currently on my first semester of college
-- 💞️ I’m looking to collaborate on Python and Lua projects
+- 👀 I have been working with iOS development for almost a year now. I'm also interested in low level systems, Assembly and C Programming.
+- 🌱 I’m currently on my fourth semester of college, and excited to learn more and dive deeper into the world of coding
+- 💞️ I’m looking to collaborate on C, Assembly, Python and Swift projects!
 - 📫 How to reach me:
     email: @eduardodovalecaroli@gmail.com
 
